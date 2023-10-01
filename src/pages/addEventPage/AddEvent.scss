@@ -1,0 +1,156 @@
+.addEventPage {
+    display: flex;
+    width: 100%;
+    .addEventContainer {
+      flex: 6;
+
+      .title{
+        color: gray;
+        font-size: 18px;
+        font-weight: 500;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+      .form {
+        margin-top: 30px;
+        margin-left: 30px;
+        margin-right: 30px;
+
+        flex: 1;
+       -webkit-box-shadow: 2px 4px 10px 3px rgba(0, 0, 0, 0.47);
+        box-shadow: 2px 4px 10px 3px rgba(201, 201, 201, 0.47);
+        padding: 10px;
+        border-radius: 10px;
+        
+        position: relative;
+
+        
+      
+         .select1 {
+           color: rgb(112, 112, 112);
+           margin-top: 20px;
+           margin-left: 20px;
+           margin-right: 20px;
+
+           .select {
+             margin-top: 5px;
+           }
+         }
+         
+         .select2 {
+          color: rgb(112, 112, 112);
+          margin-top: 20px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .select {
+            margin-top: 5px;
+          }
+        }
+
+        .select3 {
+          color: rgb(112, 112, 112);
+          margin-top: 20px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .select {
+            margin-top: 5px;
+          }
+        }
+
+        .select4 {
+          color: rgb(112, 112, 112);
+          margin-top: 40px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .textbox {
+            margin-left: 30px;
+            width: 50%;
+          }
+        }
+
+        .select5 {
+          color: rgb(112, 112, 112);
+          margin-top: 40px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .answer {
+            margin-left: 12%;
+          }
+
+          .radio1 {
+            margin-right: 20%;
+          }
+        }
+
+        .select6 {
+          color: rgb(112, 112, 112);
+          margin-top: 40px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .r3 {
+            margin-left: 2.5%;
+          }
+
+          .radio3 {
+            margin-right: 20%;
+          }
+        }
+
+        .select7 {
+          color: rgb(112, 112, 112);
+          margin-top: 40px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .r5 {
+            margin-left: 8.7%;
+          }
+
+          .radio5 {
+            margin-right: 20%;
+          }
+        }
+
+        .select8 {
+          color: rgb(112, 112, 112);
+          margin-top: 40px;
+          margin-left: 20px;
+          margin-right: 20px;
+
+          .p {
+            margin-bottom: 5px;
+          }
+
+          .textarea {
+            margin-left: 80px;
+            margin-bottom: 40px;
+            width: 50%;
+          }
+        }
+
+        .button {
+          width: 100px;
+          height: 50px;
+          margin-bottom: 40px;
+          align-items: center;
+          justify-content: center;
+          margin: auto;
+          display: flex;
+          border-radius: 10px;
+          border-color: white;
+          font-size: 17px;
+          background-color: white;
+        }
+
+        .button:hover {
+          background-color: #ece8ff;;
+        }
+      }
+    }
+  }
