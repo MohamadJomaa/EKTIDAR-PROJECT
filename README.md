@@ -1,12 +1,19 @@
 # Screenshot of the output
-    ![Dashboard Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170052.png)
-    ![StudentsPage](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170212.png)
-    ![Docters Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170303.png)
-    ![Add User Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170402.png)
-    ![Add Event Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170449.png)
-    ![Add Meeting Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170605.png)
-    ![Add Message Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170643.png)
-    ![Add Feedback Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170729.png)
+![Dashboard Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170052.png)
+
+![StudentsPage](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170212.png)
+
+![Docters Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170303.png)
+
+![Add User Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170402.png)
+
+![Add Event Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170449.png)
+
+![Add Meeting Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170605.png)
+
+![Add Message Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170643.png)
+
+![Add Feedback Page](https://github.com/MohamadJomaa/EKTIDAR-PROJECT/blob/master/src/images/Screenshot%202023-10-01%20170729.png)
 
 
 
